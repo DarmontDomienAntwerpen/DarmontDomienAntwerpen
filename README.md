@@ -14,7 +14,7 @@ My approach: start from the operational need, test what is possible under realis
 
 | Project | Description | Stack |
 |---|---|---|
-| [**AAR**](https://github.com/DarmontDomienAntwerpen/AAR) | AI-assisted After Action Review for fire services. Turns commanders' reports into one traceable, chronological debrief. Piloted at a Belgian fire zone. | Claude · FastAPI · SQLAlchemy · Pydantic |
+| [**AAR**](https://github.com/DarmontDomienAntwerpen/AAR) | AI-assisted After Action Review for fire services. Turns commanders' reports into one traceable, chronological debrief. | Claude · FastAPI · SQLAlchemy · Pydantic |
 | [**IncidentIQ**](https://github.com/DarmontDomienAntwerpen/IncidentIQ) | Turns incident training videos into searchable knowledge, debrief documents and XVR simulation scenarios. | LangGraph · RAG · Pinecone · LangSmith |
 | [**Lisa**](https://github.com/DarmontDomienAntwerpen/lisa_ai_assistant) | AI voice receptionist that answers calls, books appointments and escalates to a human. In production. | OpenAI Realtime · Twilio · FastAPI · PostgreSQL |
 | [**Servix**](https://github.com/DarmontDomienAntwerpen/servix) | Field-service assistant that troubleshoots boiler fault codes from service manuals, always citing the source page. | GPT-4o Vision · Qdrant · RAG · Docker |
