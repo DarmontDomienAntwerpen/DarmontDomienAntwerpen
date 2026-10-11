@@ -19,7 +19,7 @@ My approach: start from the operational need, test what is possible under realis
 | [**Lisa**](https://github.com/DarmontDomienAntwerpen/lisa_ai_assistant) | AI voice receptionist that answers calls, books appointments and escalates to a human. In production. | OpenAI Realtime · Twilio · FastAPI · PostgreSQL |
 | [**Servix**](https://github.com/DarmontDomienAntwerpen/servix) | Field-service assistant that troubleshoots boiler fault codes from service manuals, always citing the source page. | GPT-4o Vision · Qdrant · RAG · Docker |
 | [**Lead Scraper**](https://github.com/DarmontDomienAntwerpen/lead-scraper) | B2B prospecting pipeline: finds, scores and drafts outreach for human review. | LangGraph · Claude · Playwright |
-| [**Amazon Review Analyzer**](https://github.com/DarmontDomienAntwerpen/amazon-review-analyzer) | NLP pipeline that classifies, clusters and summarises 46,000 product reviews. | Fine-tuned BERT · Llama 3.2 · Streamlit |
+| [**Amazon Review Analyzer**](https://github.com/DarmontDomienAntwerpen/amazon-review-analyzer) | NLP pipeline on 46,000 product reviews: **fine-tuned a BERT sentiment classifier** (77.0% → 79.4% accuracy), clustered products with sentence embeddings and generated buyer's guides with a local LLM. | Hugging Face Transformers · PyTorch · Llama 3.2 · Streamlit |
 
 Bootcamp exercises: [ironhack-ai-engineering-bootcamp](https://github.com/DarmontDomienAntwerpen/ironhack-ai-engineering-bootcamp)
 
@@ -35,7 +35,7 @@ Bootcamp exercises: [ironhack-ai-engineering-bootcamp](https://github.com/Darmon
 ### Technical skills
 
 **AI & LLMs:** OpenAI (Realtime, Vision), Anthropic Claude, LangChain, LangGraph, Hugging Face, RAG, agents & tool calling, evaluation (RAGAS, LangSmith)
-**Machine learning:** scikit-learn, PyTorch, Keras, computer vision, NLP
+**Machine learning:** model fine-tuning (BERT, LoRA / QLoRA with PEFT), scikit-learn, PyTorch, Keras, computer vision, NLP
 **Engineering:** Python, FastAPI, PostgreSQL, Qdrant, Pinecone, Docker, pytest, Pydantic
 
 ### Contact
