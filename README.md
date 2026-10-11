@@ -1,32 +1,43 @@
-### Hi, I'm Domien 👋
+## Domien Darmont
 
-**AI Engineer in Antwerp, Belgium.** I build practical AI systems for real users: voice agents, RAG assistants and LLM pipelines that are tested, guarded against hallucination, and ready for production.
+**Frontline commander at Brandweer Zone Antwerpen · BIRD team (Drones, IT, Robotics & Digital Technologies) · AI Engineer**
 
-Background in emergency services, which shapes how I build AI: reliable, traceable, and with a human in control.
+I work where emergency response, technology and implementation meet. For over 16 years I have served with the Antwerp Fire Department, currently as a frontline commander and operational leader of the BIRD team. There I lead teams during real incidents and drive the practical adoption of drones, robotics, data and digital technology in public safety.
+
+In 2026 I completed an intensive AI Engineering program covering machine learning, computer vision, deep neural networks, large language models and AI-driven automation. The projects below apply that knowledge to real operational problems. They are built to be reliable, traceable and usable by the people who depend on them.
+
+My approach: start from the operational need, test what is possible under realistic conditions, and turn technology into something people can actually use in practice.
 
 ---
 
-#### 🚀 Featured projects
+### Featured projects
 
-| Project | What it does | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [**Lisa**](https://github.com/DarmontDomienAntwerpen/lisa_ai_assistant) | AI voice receptionist that answers business calls, books appointments and escalates to a human. In production. | OpenAI Realtime · Twilio · FastAPI · PostgreSQL |
-| [**AAR**](https://github.com/DarmontDomienAntwerpen/AAR) | AI-assisted After Action Review for fire services, piloted at a Belgian fire zone. | Claude · FastAPI · SQLAlchemy · Pydantic |
-| [**Servix**](https://github.com/DarmontDomienAntwerpen/servix) | WhatsApp assistant that troubleshoots boiler fault codes from service manuals, always with the source page. | GPT-4o Vision · Qdrant · RAG · Docker |
-| [**IncidentIQ**](https://github.com/DarmontDomienAntwerpen/IncidentIQ) | Turns incident videos into searchable knowledge, debrief PDFs and simulation scenarios. | LangGraph · Pinecone · LangSmith · Flask |
+| [**AAR**](https://github.com/DarmontDomienAntwerpen/AAR) | AI-assisted After Action Review for fire services. Turns commanders' reports into one traceable, chronological debrief. Piloted at a Belgian fire zone. | Claude · FastAPI · SQLAlchemy · Pydantic |
+| [**IncidentIQ**](https://github.com/DarmontDomienAntwerpen/IncidentIQ) | Turns incident training videos into searchable knowledge, debrief documents and XVR simulation scenarios. | LangGraph · RAG · Pinecone · LangSmith |
+| [**Lisa**](https://github.com/DarmontDomienAntwerpen/lisa_ai_assistant) | AI voice receptionist that answers calls, books appointments and escalates to a human. In production. | OpenAI Realtime · Twilio · FastAPI · PostgreSQL |
+| [**Servix**](https://github.com/DarmontDomienAntwerpen/servix) | Field-service assistant that troubleshoots boiler fault codes from service manuals, always citing the source page. | GPT-4o Vision · Qdrant · RAG · Docker |
 | [**Lead Scraper**](https://github.com/DarmontDomienAntwerpen/lead-scraper) | B2B prospecting pipeline: finds, scores and drafts outreach for human review. | LangGraph · Claude · Playwright |
-| [**Amazon Review Analyzer**](https://github.com/DarmontDomienAntwerpen/amazon-review-analyzer) | Classifies, clusters and summarises 46k product reviews. | Fine-tuned BERT · Llama 3.2 · Streamlit |
+| [**Amazon Review Analyzer**](https://github.com/DarmontDomienAntwerpen/amazon-review-analyzer) | NLP pipeline that classifies, clusters and summarises 46,000 product reviews. | Fine-tuned BERT · Llama 3.2 · Streamlit |
 
-📚 Bootcamp exercises: [ironhack-ai-engineering-bootcamp](https://github.com/DarmontDomienAntwerpen/ironhack-ai-engineering-bootcamp)
+Bootcamp exercises: [ironhack-ai-engineering-bootcamp](https://github.com/DarmontDomienAntwerpen/ironhack-ai-engineering-bootcamp)
 
 ---
 
-#### 🛠️ Tech I work with
+### Background
 
-**AI & LLMs:** OpenAI (incl. Realtime & Vision), Anthropic Claude, LangChain, LangGraph, Hugging Face, RAG, agents & tool calling, evaluation (RAGAS, LangSmith)
-**Backend:** Python, FastAPI, Flask, PostgreSQL, SQLite, Qdrant, Pinecone, Docker
-**Integrations:** Twilio (voice & WhatsApp), Google Calendar & Gmail APIs, Playwright
-**Engineering:** pytest, Pydantic, guardrails, GDPR-aware design
+- **Operational leadership**: station commander and incident leader, coordinating multidisciplinary teams under pressure
+- **Public-safety innovation**: testing drones, robotics and digital systems in realistic conditions and turning lessons from exercises and incidents into procedures and training
+- **Training & knowledge sharing**: Incident Command System (ICS), and firefighting strategy for urban, tunnel and heavy-industrial environments
+- **Belgian Defence**: experience in a structured military environment
 
-#### 📫 Contact
-Open to AI engineering roles and freelance projects. Reach me via [LinkedIn](https://www.linkedin.com/in/domien-darmont-b53b7640b/).
+### Technical skills
+
+**AI & LLMs:** OpenAI (Realtime, Vision), Anthropic Claude, LangChain, LangGraph, Hugging Face, RAG, agents & tool calling, evaluation (RAGAS, LangSmith)
+**Machine learning:** scikit-learn, PyTorch, Keras, computer vision, NLP
+**Engineering:** Python, FastAPI, PostgreSQL, Qdrant, Pinecone, Docker, pytest, Pydantic
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/domien-darmont-b53b7640b/)
