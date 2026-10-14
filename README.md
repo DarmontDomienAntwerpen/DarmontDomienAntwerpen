@@ -14,14 +14,14 @@ My approach: start from the operational need, test what is possible under realis
 
 | Project | Description | Stack |
 |---|---|---|
-| [**AAR**](https://github.com/DarmontDomienAntwerpen/AAR) | AI-assisted After Action Review. Turns the reports of everyone involved into one traceable, chronological debrief. Built for fire services, adaptable to any emergency service or team that runs After Action Reviews. | Claude · FastAPI · SQLAlchemy · Pydantic |
-| [**IncidentIQ**](https://github.com/DarmontDomienAntwerpen/IncidentIQ) | Turns incident training videos into searchable knowledge, debrief documents and XVR simulation scenarios. | LangGraph · RAG · Pinecone · LangSmith |
-| [**Lisa**](https://github.com/DarmontDomienAntwerpen/lisa_ai_assistant) | AI voice receptionist that answers calls, books appointments and escalates to a human. | OpenAI Realtime · Twilio · FastAPI · PostgreSQL |
-| [**Servix**](https://github.com/DarmontDomienAntwerpen/servix) | Field-service assistant that troubleshoots boiler fault codes from service manuals, always citing the source page. | GPT-4o Vision · Qdrant · RAG · Docker |
-| [**Lead Scraper**](https://github.com/DarmontDomienAntwerpen/lead-scraper) | B2B prospecting pipeline: finds, scores and drafts outreach for human review. | LangGraph · Claude · Playwright |
-| [**Amazon Review Analyzer**](https://github.com/DarmontDomienAntwerpen/amazon-review-analyzer) | NLP pipeline on 46,000 product reviews: **fine-tuned a BERT sentiment classifier** (77.0% → 79.4% accuracy), clustered products with sentence embeddings and generated buyer's guides with a local LLM. | Hugging Face Transformers · PyTorch · Llama 3.2 · Streamlit |
+| [**AAR**](https://github.com/DomienDarmontAntwerpen/AAR) | AI-assisted After Action Review. Turns the reports of everyone involved into one traceable, chronological debrief. Built for fire services, adaptable to any emergency service or team that runs After Action Reviews. | Claude · FastAPI · SQLAlchemy · Pydantic |
+| [**IncidentIQ**](https://github.com/DomienDarmontAntwerpen/IncidentIQ) | Turns incident training videos into searchable knowledge, debrief documents and XVR simulation scenarios. | LangGraph · RAG · Pinecone · LangSmith |
+| [**Lisa**](https://github.com/DomienDarmontAntwerpen/lisa_ai_assistant) | AI voice receptionist that answers calls, books appointments and escalates to a human. | OpenAI Realtime · Twilio · FastAPI · PostgreSQL |
+| [**Servix**](https://github.com/DomienDarmontAntwerpen/servix) | Field-service assistant that troubleshoots boiler fault codes from service manuals, always citing the source page. | GPT-4o Vision · Qdrant · RAG · Docker |
+| [**Lead Scraper**](https://github.com/DomienDarmontAntwerpen/lead-scraper) | B2B prospecting pipeline: finds, scores and drafts outreach for human review. | LangGraph · Claude · Playwright |
+| [**Amazon Review Analyzer**](https://github.com/DomienDarmontAntwerpen/amazon-review-analyzer) | NLP pipeline on 46,000 product reviews: **fine-tuned a BERT sentiment classifier** (77.0% → 79.4% accuracy), clustered products with sentence embeddings and generated buyer's guides with a local LLM. | Hugging Face Transformers · PyTorch · Llama 3.2 · Streamlit |
 
-Bootcamp exercises: [ironhack-ai-engineering-bootcamp](https://github.com/DarmontDomienAntwerpen/ironhack-ai-engineering-bootcamp)
+Bootcamp exercises: [ironhack-ai-engineering-bootcamp](https://github.com/DomienDarmontAntwerpen/ironhack-ai-engineering-bootcamp)
 
 ---
 
