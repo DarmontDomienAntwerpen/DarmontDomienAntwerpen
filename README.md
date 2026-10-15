@@ -1,6 +1,6 @@
 ## Domien Darmont
 
-**Frontline commander at Brandweer Zone Antwerpen · BIRD team (Drones, IT, Robotics & Digital Technologies) · AI Engineer (Ironhack 2026)**
+**Frontline commander at Brandweer Zone Antwerpen · BIRD team (Drones, IT, Robotics & Digital Technologies) · Building applied AI systems**
 
 I work where emergency response, technology and implementation meet. For over 16 years I have served with the Antwerp Fire Department, currently as a frontline commander and operational leader of the BIRD team. There I lead teams during real incidents and drive the practical adoption of drones, robotics, data and digital technology in public safety.
 
