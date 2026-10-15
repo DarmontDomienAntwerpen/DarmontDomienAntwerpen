@@ -42,4 +42,4 @@ Bootcamp exercises: [ironhack-ai-engineering-bootcamp](https://github.com/Domien
 
 [LinkedIn](https://www.linkedin.com/in/domien-darmont-b53b7640b/)
 
-A live demo or more information about any of these projects is available on request.
+A live demo, a project presentation or answers to any questions about these projects are available on request.
