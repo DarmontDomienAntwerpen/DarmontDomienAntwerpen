@@ -10,9 +10,9 @@ My approach: start from the operational need, test what is possible under realis
 
 ---
 
-### Real-life problems, solved with AI
+### Built from operational experience
 
-Operational problems I ran into in emergency response, tackled with the techniques I built up in the practice projects below.
+Operational problems I ran into in emergency response, tackled with the techniques I built up in the skill-building projects below.
 
 | Project | Description | Stack |
 |---|---|---|
