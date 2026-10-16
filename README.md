@@ -10,9 +10,9 @@ My approach: start from the operational need, test what is possible under realis
 
 ---
 
-### Public-safety projects
+### Real-life problems, solved with AI
 
-Built for my work in emergency response.
+Operational problems I ran into in emergency response, tackled with the techniques I built up in the practice projects below.
 
 | Project | Description | Stack |
 |---|---|---|
