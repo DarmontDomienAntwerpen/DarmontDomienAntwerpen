@@ -19,7 +19,7 @@ Operational problems I ran into in emergency response, tackled with the techniqu
 | [**AAR**](https://github.com/DomienDarmontAntwerpen/AAR) | AI-assisted After Action Review. Turns the reports of everyone involved into one traceable, chronological debrief. Built for fire services, adaptable to any emergency service or team that runs After Action Reviews. | Claude · FastAPI · SQLAlchemy · Pydantic |
 | [**IncidentIQ**](https://github.com/DomienDarmontAntwerpen/IncidentIQ) | Turns incident training videos into searchable knowledge, debrief documents and scenarios for XVR, a VR training simulator. | LangGraph · RAG · Pinecone · LangSmith |
 
-### Practice projects
+### Skill-building projects
 
 Built to learn and practise specific techniques. Each one is a complete, working project, but the goal is the technique, not the product.
 
