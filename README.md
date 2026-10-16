@@ -50,6 +50,6 @@ Bootcamp exercises: [ironhack-ai-engineering-bootcamp](https://github.com/Domien
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/domien-darmont-b53b7640b/)
+[LinkedIn](https://www.linkedin.com/in/domiendarmont/)
 
 A live demo, a project presentation or answers to any questions about these projects are available on request.
