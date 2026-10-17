@@ -41,7 +41,7 @@ Bootcamp exercises: [ironhack-ai-engineering-bootcamp](https://github.com/Domien
 - **Public-safety innovation**: testing drones, robotics and digital systems in realistic conditions and turning lessons from exercises and incidents into procedures and training
 - **Training & knowledge sharing**: Incident Command System (ICS), and firefighting strategy for urban, tunnel and heavy-industrial environments
 - **Belgian Defence**: experience in a structured military environment
-- **Ironhack AI Engineering bootcamp (2026)**: 3-month full-time programme covering machine learning, computer vision, deep learning, LLMs, RAG and AI agents, with a hands-on project every week
+- **Ironhack AI Engineering bootcamp (2026)**: 3-month full-time programme covering machine learning, computer vision, deep learning, LLMs, RAG and AI agents, with hands-on projects every week
 
 ### Technical skills
 
