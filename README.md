@@ -25,7 +25,7 @@ Built to learn and practise specific techniques. Each one is a complete, working
 
 | Project | Description | Technique practised | Stack |
 |---|---|---|---|
-| [**Cordon**](https://github.com/DomienDarmontAntwerpen/cordon) | AI gateway between a company's apps and models like ChatGPT: masks personal data before it leaves, blocks prompt injection, keeps each team within its budget and sends a request to a cheaper model **only where that model was proven as good** - 80% saved on a simulated working day, measured live. | LLM cost optimisation and routing, guardrails, evaluation with tests fixed in advance | FastAPI · LiteLLM · scikit-learn · Docker |
+| [**Cordon**](https://github.com/DomienDarmontAntwerpen/cordon)<br><sub>🆕 Latest project · October 2026</sub> | AI gateway between a company's apps and models like ChatGPT: masks personal data before it leaves, blocks prompt injection, keeps each team within its budget and sends a request to a cheaper model **only where that model was proven as good** - 80% saved on a simulated working day, measured live. | LLM cost optimisation and routing, guardrails, evaluation with tests fixed in advance | FastAPI · LiteLLM · scikit-learn · Docker |
 | [**Lisa**](https://github.com/DomienDarmontAntwerpen/lisa_ai_assistant) | AI voice receptionist that answers calls, books appointments and escalates to a human. | Real-time voice agents, tool calling | OpenAI Realtime · Twilio · FastAPI · PostgreSQL |
 | [**Servix**](https://github.com/DomienDarmontAntwerpen/servix) | Field-service assistant that troubleshoots HVAC fault codes from service manuals, always citing the source page. | RAG with source citations, vision, guardrails | GPT-4o Vision · Qdrant · RAG · Docker |
 | [**Lead Scraper**](https://github.com/DomienDarmontAntwerpen/lead-scraper) | B2B prospecting pipeline: finds, scores and drafts outreach for human review. | Agent workflows, human-in-the-loop | LangGraph · Claude · Playwright |
@@ -41,6 +41,7 @@ Bootcamp exercises: [ironhack-ai-engineering-bootcamp](https://github.com/Domien
 - **Public-safety innovation**: testing drones, robotics and digital systems in realistic conditions and turning lessons from exercises and incidents into procedures and training
 - **Training & knowledge sharing**: Incident Command System (ICS), and firefighting strategy for urban, tunnel and heavy-industrial environments
 - **Belgian Defence**: experience in a structured military environment
+- **Ironhack AI Engineering bootcamp (2026)**: 3-month full-time programme covering machine learning, computer vision, deep learning, LLMs, RAG and AI agents, with a hands-on project every week
 
 ### Technical skills
 
