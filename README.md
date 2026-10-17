@@ -16,7 +16,7 @@ Operational problems I ran into in emergency response, tackled with the techniqu
 
 | Project | Description | Stack |
 |---|---|---|
-| [**AAR**](https://github.com/DomienDarmontAntwerpen/AAR) | AI-assisted After Action Review. Turns the reports of everyone involved into one traceable, chronological debrief. Built for fire services, adaptable to any emergency service or team that runs After Action Reviews. | Claude · FastAPI · SQLAlchemy · Pydantic |
+| [**AAR**](https://github.com/DomienDarmontAntwerpen/AAR) | AI-assisted After Action Review. Reads the reports of everyone involved and builds one debrief: an incident summary, a shared timeline, what went well, points for improvement and lessons learned, each point linked to the exact sentence it came from. Built for fire services, adaptable to any emergency service or team that runs After Action Reviews. | Claude · FastAPI · SQLAlchemy · Pydantic |
 | [**IncidentIQ**](https://github.com/DomienDarmontAntwerpen/IncidentIQ) | Turns incident training videos into searchable knowledge, debrief documents and scenarios for XVR, a VR training simulator. | LangGraph · RAG · Pinecone · LangSmith |
 
 ### Skill-building projects
